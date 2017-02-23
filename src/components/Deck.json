@@ -1,0 +1,467 @@
+[{
+		"id": 1,
+		"rank": "2",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 2,
+		"rank": "3",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 3,
+		"rank": "4",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 4,
+		"rank": "5",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 5,
+		"rank": "6",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 6,
+		"rank": "7",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 7,
+		"rank": "8",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 8,
+		"rank": "9",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 9,
+		"rank": "10",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 10,
+		"rank": "J",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": true,
+		"color": "black"
+	},
+
+	{
+		"id": 11,
+		"rank": "Q",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": true,
+		"color": "black"
+	},
+
+	{
+		"id": 12,
+		"rank": "K",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": true,
+		"color": "black"
+	},
+
+	{
+		"id": 13,
+		"rank": "A",
+		"suit": "spade",
+		"symbol": "♠",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 14,
+		"rank": "2",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 15,
+		"rank": "3",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 16,
+		"rank": "4",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 17,
+		"rank": "5",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 18,
+		"rank": "6",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 19,
+		"rank": "7",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 20,
+		"rank": "8",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 21,
+		"rank": "9",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 22,
+		"rank": "10",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 23,
+		"rank": "J",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": true,
+		"color": "red"
+	},
+
+	{
+		"id": 24,
+		"rank": "Q",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": true,
+		"color": "red"
+	},
+
+	{
+		"id": 25,
+		"rank": "K",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": true,
+		"color": "red"
+	},
+
+	{
+		"id": 26,
+		"rank": "A",
+		"suit": "heart",
+		"symbol":"♥",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 27,
+		"rank": "2",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 28,
+		"rank": "3",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 29,
+		"rank": "4",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 30,
+		"rank": "5",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 31,
+		"rank": "6",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 32,
+		"rank": "7",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 33,
+		"rank": "8",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 34,
+		"rank": "9",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 35,
+		"rank": "10",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 36,
+		"rank": "J",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": true,
+		"color": "red"
+	},
+
+	{
+		"id": 37,
+		"rank": "Q",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": true,
+		"color": "red"
+	},
+
+	{
+		"id": 38,
+		"rank": "K",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": true,
+		"color": "red"
+	},
+
+	{
+		"id": 39,
+		"rank": "A",
+		"suit": "diamond",
+		"symbol":"♦",
+		"facecard": false,
+		"color": "red"
+	},
+
+	{
+		"id": 40,
+		"rank": "2",
+		
+		"symbol":"♣","suit": "club",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 41,
+		"rank": "3",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 42,
+		"rank": "4",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 43,
+		"rank": "5",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 44,
+		"rank": "6",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 45,
+		"rank": "7",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 46,
+		"rank": "8",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 47,
+		"rank": "9",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 48,
+		"rank": "10",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+	},
+
+	{
+		"id": 49,
+		"rank": "J",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": true,
+		"color": "black"
+	},
+
+	{
+		"id": 50,
+		"rank": "Q",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": true,
+		"color": "black"
+	},
+
+	{
+		"id": 51,
+		"rank": "K",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": true,
+		"color": "black"
+	},
+
+	{
+		"id": 52,
+		"rank": "A",
+		"suit": "club",
+		"symbol":"♣",
+		"facecard": false,
+		"color": "black"
+		}]
